@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Guruprasath S</h1>
 <h2 align="center">Passionate about "NETWORKING"🌐 and "CYBERSECURITY"🔐 from India</h2>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
 
 - 🔭 I’m currently Studying on [Sri Eshwar College of Engineering](https://sece.ac.in/)
 
